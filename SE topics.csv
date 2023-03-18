@@ -1,0 +1,302 @@
+650,SE_Software,50650
+651,SE_Software Process,50651
+652,SE_Software engineering historical perspective,50652
+653,SE_Software Development,50653
+654,SE_Programming,50654
+655,SE_waterfall process model,50655
+656,SE_Prototyping Process Mode,50656
+657,SE_Spiral  Model,50657
+658,SE_incremental Model,50658
+659,SE_Unified process model,50659
+660,SE_Agile Software Development,50660
+661,SE_Agile UP,50661
+662,SE_Requirements engineering,50662
+663,SE_Requirements classification,50663
+664,SE_requirements analysis process,50664
+665,SE_Requirements prioritization,50665
+666,SE_functional Requirements,50666
+667,SE_Non Functional Requirements,50667
+668,SE_Usecase analysis,50668
+669,SE_Usecase description,50669
+670,SE_Actors adentification,50670
+671,SE_Usecase identification,50671
+672,SE_Usecase diagram,50672
+673,SE_Human Aspects of Software Engineering,50673
+674,SE_Umberalla activities,50674
+675,SE_software Confirguration management,50675
+676,SE_Software Project Management,50676
+677,SE_Gantt Chart,50677
+678,SE_Version Control system,50678
+679,SE_issue tracking system,50679
+680,SE_Unified Modeling language,50680
+681,SE_case studies,50681
+682,SE_Domain model,50682
+683,SE_system sequence diagram,50683
+684,SE_Operation contracts,50684
+685,SE_Practices of Software Design,50685
+686,SE_Software Architecture Design,50686
+687,SE_Software Architecture styles,50687
+688,SE_UML package diagram,50688
+689,SE_Introduction to detailed design,50689
+690,SE_Design patterns ,50690
+691,SE_Adaptor pattern,50691
+692,SE_Factory pattern,50692
+693,SE_Interaction diagram,50693
+694,SE_Sequence Diagram,50694
+695,SE_Collaboration diagram,50695
+696,SE_GRASP,50696
+697,SE_detailed class diagram,50697
+698,SE_Entity relationship diagram,50698
+699,SE_Data flow daigram,50699
+700,SE_mapping diagram to code,50700
+701,SE_structured design,50701
+702,SE_Object oriented design,50702
+703,SE_mapping class diagrams to code,50703
+704,SE_Façade pattern,50704
+705,SE_Memento pattern,50705
+706,SE_Builder pattern,50706
+707,SE_Bridge pattern,50707
+708,SE_Singleton pattern,50708
+709,SE_Decorator pattern,50709
+710,SE_Observer pattern,50710
+711,SE_Visitor pattern,50711
+712,SE_state pattern,50712
+713,SE_Publisher Pattern,50713
+714,SE_Subscriber Pattern,50714
+715,SE_Proxy Pattern,50715
+716,SE_User Interface design,50716
+717,SE_Procedural design,50717
+718,SE_Guidelines for UI design,50718
+719,SE_Testing concepts,50719
+720,SE_system testing debugging,50720
+721,SE_V Model,50721
+722,SE_alpha testing,50722
+723,SE_beta testing,50723
+724,SE_black box testing,50724
+725,SE_white box testing,50725
+726,SE_polymorphism,50726
+727,SE_testing polymorphism,50727
+728,SE_Inheritence,50728
+729,SE_Testing inheritence,50729
+730,SE_Unit testing,50730
+731,SE_OO unit testing,50731
+732,SE_class testing,50732
+733,SE_delta debugging,50733
+734,SE_change management,50734
+735,SE_Need for Software Engineering,50735
+736,SE_Software Factory,50736
+737,SE_Capability Maturity Model,50737
+738,SE_Capability Maturity Model Integration,50738
+739,SE_Requierment Specification,50739
+740,SE_Design Specification,50740
+741,SE_Software Design Principles,50741
+742,SE_Software design methods,50742
+743,SE_Software Reuse,50743
+744,SE_Empirical data,50744
+745,SE_Software measurements,50745
+746,SE_Software estimation,50746
+747,SE_Project Cost estimation,50747
+748,SE_COCOMO ,50748
+749,SE_Project estimation,50749
+750,SE_Product estimation,50750
+751,SE_Reuse-Technical issues,50751
+752,SE_Reuse management issues,50752
+753,SE_Product vs process,50753
+754,SE_testing guidelines,50754
+755,SE_Software Reviews,50755
+756,SE_Formal Technical Reviews,50756
+757,SE_Work Breakdown Structure,50757
+758,SE_programmar productivity,50758
+759,SE_maintainability,50759
+760,SE_management,50760
+761,SE_Programming language correctness,50761
+762,SE_cohesion,50762
+763,SE_coupliing,50763
+764,SE_creator pattern,50764
+765,SE_High cohesion pattern,50765
+766,SE_Low coupling pattern,50766
+767,SE_controller pattern,50767
+768,SE_expert pattern,50768
+769,SE_GRASP,50769
+770,SE_GoF,50770
+771,SE_program creation,50771
+772,SE_team development,50772
+773,SE_forming,50773
+774,SE_norming,50774
+775,SE_Storming,50775
+776,SE_Performing,50776
+777,SE_software reliability,50777
+778,SE_mean time to recover,50778
+779,SE_mean time between failures,50779
+780,SE_user stories,50780
+781,SE_identifiying associations,50781
+782,SE_traceability matrix,50782
+783,SE_boundary subsystems,50783
+784,SE_detailed usecase description,50784
+785,SE_SOLID design principles,50785
+786,SE_context diagram,50786
+787,SE_vision statement,50787
+788,SE_stakeholders,50788
+789,SE_UML object constraint language,50789
+790,SE_problem domain modeling,50790
+791,SE_usecase points,50791
+792,SE_measuring software complexity,50792
+793,SE_cyclomatic complexity,50793
+794,SE_structural cohesion,50794
+795,SE_syntactic cohesion,50795
+796,SE_semantic cohesion,50796
+797,SE_command pattern,50797
+798,SE_threads,50798
+799,SE_exclusive resource access,50799
+800,SE_cooperation between thread,50800
+801,SE_middlware,50801
+802,SE_broker,50802
+803,SE_class,50803
+804,SE_Relational databases,50804
+805,SE_structured query language,50805
+806,SE_database access,50806
+807,SE_PHP scripting,50807
+808,SE_PHP syntax,50808
+809,SE_PHP variabes,50809
+810,SE_PHP Processor output,50810
+811,SE_PHP control statement,50811
+812,SE_PHP in HTML,50812
+813,SE_Cookies  in PHP,50813
+814,SE_Session management in PHP,50814
+815,SE_Problem Frames,50815
+816,SE_Analysis Reuse,50816
+817,SE_Recombining Problem Frames,50817
+818,SE_metrics,50818
+819,SE_Make command,50819
+820,SE_Macros,50820
+821,SE_Make Writing Rules,50821
+822,SE_Commands in Rules,50822
+823,SE_Using variables,50823
+824,SE_implicit rules,50824
+825,SE_Update archives,50825
+826,SE_GNU features,50826
+827,SE_Macintosh development,50827
+828,SE_Procedural Vs Object Oriented Design,50828
+829,SE_C++ data types,50829
+830,SE_Procedure Vs Object,50830
+831,SE_Constructors,50831
+832,SE_Destructors,50832
+833,SE_New,50833
+834,SE_Delete,50834
+835,SE_C++ object Scope,50835
+836,SE_C++ Object Lifetime,50836
+837,SE_C++ static memory,50837
+838,SE_C++Automatic memory,50838
+839,SE_C++Dynamic memory,50839
+840,SE_C++ Data structure for Object Management,50840
+841,SE_C++ complex overloading example,50841
+842,SE_C++ Inheritence,50842
+843,SE_C++ Polmorphism,50843
+844,SE_C++Virtual Functions,50844
+845,SE_static data,50845
+846,SE_Static member functions,50846
+847,SE_C++function templates,50847
+848,SE_C++Class templates,50848
+849,SE_Sorting performance criteria,50849
+850,SE_Selection sort,50850
+851,SE_Insertion sort,50851
+852,SE_Shell Sort,50852
+853,SE_Quick Sort,50853
+854,SE_Choosing Sorting algorithm,50854
+855,SE_Java introduction,50855
+856,SE_Java Applets,50856
+857,SE_Java Applications,50857
+858,SE_Java Basics,50858
+859,SE_Java Inheritence,50859
+860,SE_Java Constructors,50860
+861,SE_Java Destructors,50861
+862,SE_Java Garbage Collectors,50862
+863,SE_Java Finalization,50863
+864,SE_Java Packages,50864
+865,SE_Java member Access specifiers,50865
+866,SE_Java members,50866
+867,SE_Java class members,50867
+868,SE_Java class modifier,50868
+869,SE_Essential Java Classes,50869
+870,SE_Java Collections,50870
+871,SE_Java Date and Time API,50871
+872,SE_Java Deployment,50872
+873,SE_Java Programming Language Certification,50873
+874,SE_Java GUI with Swing,50874
+875,SE_Java JavaFX,50875
+876,SE_Java Custom networking,50876
+877,SE_Java Extension mechanism,50877
+878,SE_Java Full Screen Exclusive mode API,50878
+879,SE_Java Generics,50879
+880,SE_Java Internationalization,50880
+881,SE_Java Beans,50881
+882,SE_Java JAXB,50882
+883,SE_Java JAXP,50883
+884,SE_Java JDBC Database Access,50884
+885,SE_Java JMX,50885
+886,SE_Java JNDI,50886
+887,SE_Java Reflection,50887
+888,SE_Java RMI,50888
+889,SE_Java Security,50889
+890,SE_Java Sockets,50890
+891,SE_Java Sound,50891
+892,SE_Java 2D Graphics,50892
+893,SE_Java 3D Graphics,50893
+894,SE_Java Polymorphism,50894
+895,SE_Java Objects,50895
+896,SE_Java Class,50896
+897,SE_Java Interfaces,50897
+898,SE_Java Exception Handling,50898
+899,SE_Java Event Model,50899
+900,SE_Java UI Component,50900
+901,SE_Java Swing Component,50901
+902,SE_JavaText Input Output File,50902
+903,SE_Java Binary Input Output File,50903
+904,SE_Java Threads,50904
+905,SE_Java Processes,50905
+906,SE_Java Multithreading,50906
+907,SE_Java Thread lifecycle,50907
+908,SE_Java Animations,50908
+909,SE_Java Image handling,50909
+910,SE_Java Image animations,50910
+911,SE_Java Bean Box,50911
+912,SE_Java Source code management,50912
+913,SE_Java Scene graph structure,50913
+914,SE_Java Performance of 3D,50914
+915,SE_Effort,50915
+916,SE_Schedule,50916
+917,SE_Business Process Re-engineering,50917
+918,SE_Flow Charting,50918
+919,SE_Pseudocode,50919
+920,SE_Software Requirements identification,50920
+921,SE_Feature Creep,50921
+922,SE_Requiement Specification Document,50922
+923,SE_Factory Method Pattern,50923
+924,SE_MVC Pattern,50924
+925,SE_MVP Pattern,50925
+926,SE_MVVM Pattern,50926
+927,SE_Refactoring,50927
+928,SE_Regression Testing,50928
+929,SE_Risk Management,50929
+930,SE_Class Methods,50930
+931,SE_Class Attributes,50931
+932,SE_Method Overriding,50932
+933,SE_Abstraction,50933
+934,SE_encapsulation,50934
+935,SE_Creational Patterns,50935
+936,SE_Structural Patterns,50936
+937,SE_Behavioural Patterns,50937
+938,SE_Abstract Factory Pattern,50938
+939,SE_ Prototype Pattern,50939
+940,SE_GoF Introduction,50940
+941,SE_Composite Pattern,50941
+942,SE_Flyweight Pattern,50942
+943,SE_Chain of Responsibility Pattern,50943
+944,SE_command pattern,50944
+945,SE_Interpretor pattern,50945
+946,SE_Iterator Pattern,50946
+947,SE_Mediator Pattern,50947
+948,SE_Momento Patten,50948
+949,SE_Strategy Pattern,50949
+950,SE_Template Method pattern,50950
+951,SE_GoF Update,50951
